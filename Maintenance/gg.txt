@@ -1,0 +1,11 @@
+%include as many subsections as you have modules
+subsection{Main Window}
+%the code below can be uncommented and used to get a code section from a particular file
+begin{comment}
+pythonfile[firstline=5]{.implimentation}
+end{comment}
+subsection{Secondary Window}
+%the code below can be uncommented and used to get a code section from a particular file
+begin{comment}
+pythonfile[firstline=5]{.implimentation}
+end{comment}
